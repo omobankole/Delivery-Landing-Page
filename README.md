@@ -1,7 +1,7 @@
 ## Table of contents
 
 
-- [Saas Landing Page](#Delivery-lannding-page)
+- [Delivery Landing Page](#Delivery-lannding-page)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [My process](#my-process)
