@@ -13,7 +13,7 @@
 - [Acknowledgments](#acknowledgments)
 
 
-# Saas Landing Page
+# Delivery Landing Page
 
 Users should be able to:
 
