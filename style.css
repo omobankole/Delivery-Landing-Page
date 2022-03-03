@@ -64,7 +64,8 @@ nav {
 nav .navlinks {
     display: flex;
     justify-content: space-between;
-    list-style-type: none;
+    list-style: none;
+    padding: 10px 0px;
 }
 
  .navlinks a{
@@ -74,7 +75,7 @@ nav .navlinks {
     line-height: 24px;
     color: #fff;    
 }
- .navlinks li:hover {
+ .navlinks a:hover {
     border-bottom:  2px solid #8A2C0D;
     font-weight: bold;
     transition: linear 0.3s;
@@ -759,11 +760,13 @@ li p{
     font-family: 'Inter', sans-serif;
     margin-top: 16px;
 }
-.more-faq p span{
+.more-faq p a{
     font-weight: bold;
     font-size: 16px;
     line-height: 27px;
     color: #374151;
+    cursor: pointer;
+    text-decoration: none;
 }
 
 footer{
