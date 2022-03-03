@@ -68,3 +68,7 @@ i want to focus more on media query, css grid, positioning and css animations an
 
 ## Acknowledgments
  I really want to thank grazac academy again for giving me great opportunity to be one of their student in this ongoing cohort and secondly tutor mayowa for the smooth interactive and comprehended classes. Victor, Mr dare for putting me through and lastly my coursemates. you all are wonderful.
+
+
+
+ <div class="stroke-pipe"></div>

@@ -330,11 +330,17 @@ nav .navlinks {
 
 .stroke {
    position: absolute;
-   top: 36%;
+   top: 37%;
    left: 18.5%;
    width: 57%;
 }
 .stroke img {
+    width: 100%;
+}
+.stroke-pipe{
+    height: 4px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px #8A2C0D;
     width: 100%;
 }
 
