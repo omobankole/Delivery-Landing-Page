@@ -1463,5 +1463,10 @@ form label{
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
-    
+    .end{
+        background: #D03801;
+    }
+    .end p{
+        font-size: 11px;
+    }
 }
