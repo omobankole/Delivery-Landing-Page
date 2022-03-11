@@ -950,6 +950,9 @@ form label{
 
 
  @media screen and (max-width: 1024px) {
+     header{
+         height: 7vh;
+     }
     .introduction {
         margin-top: 170px;
     }

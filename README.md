@@ -26,6 +26,7 @@ Users should be able to:
 ### Links
 
 Solution Url: (https://github.com/omobankole/Delivery-Landing-Page)
+- [Figma Link](https://www.figma.com/file/YEFBxzuMjxA5k8tXSaOGTb/Untitled?node-id=0%3A6)
 
 ### My Process
 
@@ -71,4 +72,4 @@ i want to focus more on media query, css grid, positioning and css animations an
 
 
 
- <div class="stroke-pipe"></div>
+ 
